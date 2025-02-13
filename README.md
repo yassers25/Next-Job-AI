@@ -9,7 +9,7 @@
 
 ---
 
-## Introduction 🌟
+## Introduction 
 
 The primary goal of this project is to develop a mini-application that integrates multiple advanced Java libraries to achieve a blend of web scraping, user interactivity, and machine learning capabilities. This application focuses on three main components:
 
@@ -21,7 +21,7 @@ This project demonstrates the seamless integration of these technologies to crea
 
 ---
 
-## Web Scraping with Jsoup 🕸️
+## Web Scraping with Jsoup 
 
 ### Overview
 Jsoup is a powerful Java library designed for parsing and manipulating HTML documents. In this project, Jsoup is used to extract job postings from employment websites such as **rukute.com**, **mjob.ma**, and **emploi.ma**. Its key features include:
@@ -35,7 +35,7 @@ A multi-threaded approach was implemented to fetch and parse job data efficientl
 
 ---
 
-## Graphical User Interface with JavaFX 💻
+## Graphical User Interface with JavaFX 
 
 ### Design and Features
 The GUI was developed using **JavaFX**, an open-source platform for building rich client applications. Key features include:
@@ -53,7 +53,7 @@ This interactive setup ensures that all core functionalities are easily accessib
 
 ---
 
-## Machine Learning with Weka 📊
+## Machine Learning with Weka 
 
 ### Overview of Weka
 Weka is a collection of machine learning and data analysis tools licensed under the GNU General Public License. Developed at the University of Waikato, New Zealand, Weka provides:

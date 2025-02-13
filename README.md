@@ -9,7 +9,6 @@
 
 ---
 
-🌟 
 ## Introduction 
 
 The primary goal of this project is to develop a mini-application that integrates multiple advanced Java libraries to achieve a blend of web scraping, user interactivity, and machine learning capabilities. This application focuses on three main components:

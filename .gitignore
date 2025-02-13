@@ -1,0 +1,25 @@
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Logs
+*.log
+
+
+# IDE specific
+.idea/
+*.iml
+*.iws
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+#env files
+.env*.local
+.env
